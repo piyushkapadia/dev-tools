@@ -1,0 +1,17 @@
+https://emacs.stackexchange.com/questions/14952/how-do-i-set-up-hunspell-on-a-windows-pc
+
+https://github.com/hunspell/hunspell
+
+https://wiki.documentfoundation.org/Language/Support
+
+https://www.libreoffice.org/download/download-libreoffice/
+
+https://github.com/iquiw/hunspell-binary/releases/
+
+https://develop.spacemacs.org/layers/+checkers/spell-checking/README.html
+
+https://stackoverflow.com/questions/62464054/how-to-add-dictionary-path-in-search-path-for-hunspell-on-windows
+
+git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+
+https://develop.spacemacs.org/layers/LAYERS.html
