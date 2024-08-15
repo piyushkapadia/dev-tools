@@ -60,9 +60,15 @@ This function should only modify configuration layer settings."
      ;; ----------------------------------------------------------------
       auto-completion
      better-defaults
+	 colors
+	 docker
      emacs-lisp
      git
      helm
+	 html
+	 javascript
+	 json
+	 kubernetes
      lsp
 	 dap
      markdown
@@ -72,11 +78,20 @@ This function should only modify configuration layer settings."
      (shell :variables
              shell-default-height 30
              shell-default-position 'bottom)
-     sql
+	 spacemacs-visual     
 	 spell-checking
+	 sql
      syntax-checking
+	 (tabs :variable
+			centaur-tabs-height 32
+			centaur-tabs-set-icons t
+			centaur-tabs-set-modified-marker t)
+	 templates
+	 treemacs
+	 typescript
      version-control
-     treemacs
+	 xclipboard
+	 yaml
 	 custom-layer
 	 )
 
